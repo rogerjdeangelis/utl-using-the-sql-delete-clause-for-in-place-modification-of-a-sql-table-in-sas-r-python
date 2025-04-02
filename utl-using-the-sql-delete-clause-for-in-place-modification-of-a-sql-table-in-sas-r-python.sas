@@ -5,11 +5,9 @@
 Using the sql delete clause for in place modification of a sql table
 Dropping row in place
 
-
 github
 https://tinyurl.com/2kzwzntj
 https://github.com/rogerjdeangelis/utl-using-the-sql-delete-clause-for-in-place-modification-of-a-sql-table-in-sas-r-python
-
 
 SOAPBOX ON
 Rarely used but versatile delete clause in most sql dialects, better than truncate clause?
